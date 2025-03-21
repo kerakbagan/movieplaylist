@@ -1,6 +1,10 @@
 # movieplaylist
+#EXTM3U
 
-#EXTINF:-1 tvg-id="Batman Ninja vs. Yakuza League (2025)" tvg-name="Batman Ninja vs. Yakuza League (2025)" group-title="MALAYSIA" group-logo="" tvg-logo="(https://s5.lk21static.buzz/wp-content/uploads/2025/03/film-batman-ninja-vs-yakuza-league-2025-lk21-d21.jpg.webp)", Batman Ninja vs. Yakuza League (2025)
+#EXTM3U
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Batman Ninja vs. Yakuza League (2025)" tvg-name="Batman Ninja vs. Yakuza League (2025)" group-title="MALAYSIA" group-logo="" tvg-logo="[https://perfecttv.net/logo/tv1.png](https://s5.lk21static.buzz/wp-content/uploads/2025/03/film-batman-ninja-vs-yakuza-league-2025-lk21-d21.jpg.webp)", Batman Ninja vs. Yakuza League (2025)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9,4 +13,4 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 #https://get.perfecttv.net/dash.mpd?channel=tv1&username=perfecttv&password=perfecttv
-[http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd](https://stream.hownetwork.xyz/xxx/batman-ninja-vs-yakuza-league-2025-webdl_X_da39a3ee/30/480.m3u8)
+https://stream.hownetwork.xyz/xxx/batman-ninja-vs-yakuza-league-2025-webdl_X_da39a3ee/30/480.m3u8
